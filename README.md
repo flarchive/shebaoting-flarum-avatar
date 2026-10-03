@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of shebaoting/flarum-avatar.** Not for installation: use [Packagist](https://packagist.org/packages/shebaoting/flarum-avatar) or the [upstream repository](https://github.com/shebaoting/flarum-avatar).
 
-**0** versions archived · Latest: [`2.0.9`](https://github.com/flarchive/shebaoting-flarum-avatar/tree/archive/v2.0.9) · License: `MIT` · Flarum: `^2.0.0-beta`
+**10** versions archived · Latest: [`2.0.9`](https://github.com/flarchive/shebaoting-flarum-avatar/tree/archive/v2.0.9) · License: `MIT` · Flarum: `^2.0.0-beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.0` | 2026-06-27 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-flarum-avatar/tree/archive/v2.0.0) |
+| `2.0.1` | 2026-06-27 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-flarum-avatar/tree/archive/v2.0.1) |
+| `2.0.2` | 2026-06-27 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-flarum-avatar/tree/archive/v2.0.2) |
+| `2.0.3` | 2026-06-27 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-flarum-avatar/tree/archive/v2.0.3) |
+| `2.0.4` | 2026-06-27 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-flarum-avatar/tree/archive/v2.0.4) |
+| `2.0.5` | 2026-06-27 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-flarum-avatar/tree/archive/v2.0.5) |
+| `2.0.6` | 2026-06-27 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-flarum-avatar/tree/archive/v2.0.6) |
+| `2.0.7` | 2026-06-27 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-flarum-avatar/tree/archive/v2.0.7) |
+| `2.0.8` | 2026-06-27 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-flarum-avatar/tree/archive/v2.0.8) |
+| `2.0.9` | 2026-06-28 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-flarum-avatar/tree/archive/v2.0.9) |
 
 Catalog entry: [packages/shebaoting-flarum-avatar.json](https://github.com/flarchive/archive-index/blob/main/packages/shebaoting-flarum-avatar.json)
 
